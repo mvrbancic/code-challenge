@@ -1,3 +1,11 @@
+# How to run project
+
+- Clone the project
+- Run npm install
+- For test run npm run test
+- For application run npm run start
+- To change map, do it in app.ts
+
 # [Software Sauna](https://www.softwaresauna.com/) Code Challenge
 
 Follow a path of characters & collect letters:
